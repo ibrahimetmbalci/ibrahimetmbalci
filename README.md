@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm İbrahim Ethem Balcı</h1>
-- 🌱 I’m currently learning **Go, AI-Machine Learning**
 
 - 👨‍💻 All of my projects are available at [ibrahimetmbalci.com](ibrahimetmbalci.com)
 
